@@ -95,6 +95,8 @@ body div {
 .search-text{
     flex-grow: 1;
     border-radius: 10px;
+    border: 0;
+    background-color: lightgray;
 }
 
 div .profile {
